@@ -25,6 +25,7 @@ Identificação de tendências e padrões nos cancelamentos.
 Clone este repositório: git clone https://github.com/seu_usuario/seu_repositorio.git
 
 Instale as dependências: pip install pandas plotly jupyter
+
 Execute o notebook Jupyter: jupyter notebook Nome_Do_Notebook.ipynb
 
 ## Resultados e Conclusões
