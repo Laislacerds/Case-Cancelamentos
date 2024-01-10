@@ -12,14 +12,14 @@ Pandas: Utilizado para manipulação e análise dos dados.
 Plotly: Utilizado para criar visualizações interativas.
 Jupyter Notebook: Ambiente interativo para desenvolvimento e apresentação do projeto.
 Estrutura do Projeto
-Notebook Principal: [Case - Cancelamentos.ipynb]
+Notebook Principal: Case - Cancelamentos.ipynb
 
 ## Análise exploratória de dados.
 Visualizações interativas com Plotly.
 Identificação de tendências e padrões nos cancelamentos.
 
 ## Dados:
-[cancelamentos.csv]: Dataset utilizado na análise.
+cancelamentos.csv : Dataset utilizado na análise.
 
 ## Como Executar o Projeto
 Clone este repositório: git clone https://github.com/seu_usuario/seu_repositorio.git
