@@ -22,11 +22,17 @@ Identificação de tendências e padrões nos cancelamentos.
 cancelamentos.csv : Dataset utilizado na análise.
 
 ## Como Executar o Projeto
-Clone este repositório: git clone https://github.com/seu_usuario/seu_repositorio.git
 
-Instale as dependências: pip install pandas plotly jupyter
+Este repositório contém arquivos grandes, incluindo Jupyter Notebooks, que são gerenciados pelo Git LFS (Git Large File Storage). Aqui estão algumas instruções sobre como lidar com esses arquivos:
 
-Execute o notebook Jupyter: jupyter notebook Nome_Do_Notebook.ipynb
+## Visualizar Jupyter Notebooks (.ipynb)
+
+Para visualizar os arquivos Jupyter Notebook, você pode usar o Jupyter Notebook localmente no seu ambiente de trabalho. Siga estas etapas:
+
+1. Clone o repositório para o seu computador usando o seguinte comando:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+
 
 ## Resultados e Conclusões
 Identificação dos principais motivos de cancelamento.
