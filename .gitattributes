@@ -1,1 +1,2 @@
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+Case[[:space:]]-[[:space:]]Cancelamento[[:space:]]de[[:space:]]Clientes/cancelamentos.csv filter=lfs diff=lfs merge=lfs -text
